@@ -17,7 +17,7 @@ Created a table schema for each of the six CSV files.
 
 
 ## Data Analysis:
-*Please note the queries are available for review under the SQL Queries Folder*
+*Please note the queries are available for review under the SQL Queries Folder.*
 
 After the database was completed I was able to answer the following question:
 
