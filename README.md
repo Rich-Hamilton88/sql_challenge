@@ -1,6 +1,6 @@
 # SQL Project
 
-In this project I designed tables to hold data from CSV files, imported the CSVs into a SQL database, and answer questions about the data. The data utilized was from a research project on employees of a corporation from the 1980s and 1990s. 
+In this project I designed tables to hold data from CSV files, imported the CSVs into a SQL database, and answered questions about the data. The data utilized was from a research project on employees of a corporation from the 1980s and 1990s. 
 
 The process completed is as follows: 
 
